@@ -13,9 +13,11 @@
  */
 
 var config = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "your-app.firebaseapp.com",
-  databaseURL: "https://your-app.firebaseio.com",
-  storageBucket: "your-app.appspot.com",
+    apiKey: "AIzaSyAF3x5yg016vBM4oC1M3TmCSn5ShXWkVDE",
+    authDomain: "tests-artadyscom.firebaseapp.com",
+    databaseURL: "https://tests-artadyscom.firebaseio.com",
+    projectId: "tests-artadyscom",
+    storageBucket: "tests-artadyscom.appspot.com",
+    messagingSenderId: "392831516992",
 };
 firebase.initializeApp(config);
